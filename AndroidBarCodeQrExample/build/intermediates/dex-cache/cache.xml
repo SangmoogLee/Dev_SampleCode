@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\Dev\AndroidStudioProjects\AndroidBarCodeQrExample_as\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_d5f3f0fe29d84ab523e0bfb640560fa19e325ba9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Dev\AndroidStudioProjects\AndroidBarCodeQrExample_as\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Dev\AndroidStudioProjects\AndroidBarCodeQrExample_as\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_34d4883f77cda64a2fe13c78609c946660b097f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Dev\AndroidStudioProjects\AndroidBarCodeQrExample_as\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac573a4b9e4c2602b76d770c8552a971a70bf7c2">
+        <dex dex="D:\Dev\AndroidStudioProjects\AndroidBarCodeQrExample_as\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a6d0a6c22bd9572339d670159b77d113e19cd63f\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Wed Mar 22 10:53:00 KST 2017
+base.0=D\:\\Dev\\AndroidStudioProjects\\AndroidBarCodeQrExample_as\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a6d0a6c22bd9572339d670159b77d113e19cd63f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Dev\\AndroidStudioProjects\\AndroidBarCodeQrExample_as\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_34d4883f77cda64a2fe13c78609c946660b097f8\\classes.dex
+base.1=D\:\\Dev\\AndroidStudioProjects\\AndroidBarCodeQrExample_as\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_34d4883f77cda64a2fe13c78609c946660b097f8
+file.0=D\:\\Dev\\AndroidStudioProjects\\AndroidBarCodeQrExample_as\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a6d0a6c22bd9572339d670159b77d113e19cd63f\\classes.dex

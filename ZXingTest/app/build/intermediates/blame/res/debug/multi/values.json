@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 656,
+                        "endColumn": 37,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 35,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 694,
+                        "endColumn": 33,
+                        "endOffset": 725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 131,
+                    "endColumn": 42,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 728,
+                        "endColumn": 40,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 174,
+                    "endColumn": 45,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 769,
+                        "endColumn": 43,
+                        "endOffset": 810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 49,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 813,
+                        "endColumn": 47,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 33,
+                    "endOffset": 299
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 861,
+                        "endColumn": 31,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 44,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 893,
+                        "endColumn": 42,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 47,
+                    "endOffset": 392
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 936,
+                        "endColumn": 45,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 397,
+                    "endColumn": 56,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 982,
+                        "endColumn": 54,
+                        "endOffset": 1034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 59,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1037,
+                        "endColumn": 57,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 59,
+                    "endOffset": 569
+                },
+                "from": {
+                    "file": "D:\\Dev\\AndroidStudioProjects\\ZXingTest_as\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 632,
+                        "endColumn": 57,
+                        "endOffset": 687
+                    }
+                }
+            }
+        ]
+    }
+]
